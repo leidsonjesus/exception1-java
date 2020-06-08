@@ -8,7 +8,8 @@ import java.util.Scanner;
 import model.entidades.Reserva;
 import model.exceptions.DomainException;
 
-public class Programa {
+public class Programa { 
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
